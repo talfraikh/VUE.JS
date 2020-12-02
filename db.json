@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Tshirt",
+      "price": "$40",
+      "brand": "Puma",
+      "inventoryStatus": true,
+      "id": 3
+    },
+    {
+      "name": "New Sports Shoe",
+      "price": "$200",
+      "brand": "Nike",
+      "inventoryStatus": true,
+      "id": 4
+    },
+    {
+      "name": "Dress",
+      "price": "$200",
+      "brand": "Zara",
+      "inventryStatus": true,
+      "id": 5
+    }
+  ]
+}

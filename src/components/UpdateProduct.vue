@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-button @click="modalShow = !modalShow"><i class="fas fa-edit"></i></b-button>
+    <b-button @click="modalShow = !modalShow"><i class="fa fa-edit"></i></b-button>
     <b-modal 
       v-model="modalShow"
       title="Update Product"

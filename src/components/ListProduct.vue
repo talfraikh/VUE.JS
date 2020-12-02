@@ -17,7 +17,7 @@
                         <hr/>
                         <b-row>
                             <b-col>
-                                <b-button variant="danger" @click="deleteProduct(product.id)"><i class="fas fa-trash"></i></b-button>
+                                <b-button variant="danger" @click="deleteProduct(product.id)"><i class="fa fa-trash"></i></b-button>
                             </b-col>
                             <b-col>
                                 <UpdateProduct :product="product" @updateProduct="updateProduct"/>
